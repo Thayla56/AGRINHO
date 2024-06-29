@@ -5,7 +5,9 @@
     --botao-azul: #ff0037;
     --cor-de-fundo: #f5708d;
     --fonte-principal: 'Inter';
+    text-align: center;
 }
+
 
 
 body {
