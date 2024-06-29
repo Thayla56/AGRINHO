@@ -16,7 +16,7 @@ body {
     font-weight: 400;
 }
 
-*{
+
    
     }
     .principal {
@@ -24,8 +24,8 @@ body {
         background-repeat: no-repeat;
         width: 90%;
         right: 100;
-     margin: 0;
-    padding: 0;}
+     margin: 10;
+    padding: 10;}
     
     
     
