@@ -8,7 +8,9 @@
     
 }
 
-
+.img3{
+    background-image: url(1.png);
+}
 
 body {
     background-color: var(--cor-de-fundo);
